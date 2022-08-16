@@ -24,4 +24,6 @@ let teacher = new Teacher("Jennifer")
 
 console.log(`teacher's anme is: ${teacher.name}`)
 console.log(teacher.sayHi())
+console.log(`currently teaching ${teacher.currentlyTeaching}`)
 console.log(student1.sayHi())
+console.log(`student grade ${student1.grade}`)
